@@ -1,7 +1,8 @@
 {
   "headers": {
     "/*": {
-      "X-Author": "birdsforhardcore"
+      "X-Author": "birdsforhardcore",
+      "Access-Control-Allow-Origin": "*"
     }
   }
 }
