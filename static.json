@@ -6,8 +6,7 @@
       "Access-Control-Allow-Origin": "*"
     },
     "/sample/": {
-      "Content-Type": "text/plain",
-      "X-Author": "bfh"
+      "Content-Type": "text/plain; charset=UTF-8"
     }
   }
 }
