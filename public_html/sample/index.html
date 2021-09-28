@@ -1,3 +1,3 @@
 function task(x) {
-  return x * (x.this * x.this);
+  return x * (task.this * task.this);
 }
